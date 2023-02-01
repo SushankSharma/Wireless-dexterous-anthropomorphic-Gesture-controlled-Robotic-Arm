@@ -1,13 +1,35 @@
-Here the main aim is to create a systematic approach to quantify the anthropomorphism of robotic hands. Once the system is activated, each Tx and Rx circuit attempts to connect via the transceiver module of the NRF24L01 module. 
-After a successful connection, the user can transmit various hand gestures that can be used to control the robotic arm in real-time.
+# 🤖 The Future of Robotic Arms is Here!
 
-> This project only covers the gripping part of the robotic arm and mimics human anthropomorphic
-gestures—the generated STL files are fed to the Cura software for slicing and printed using a 3-D printer.
-> It is presently a working robotic hand that can mimic gestures given by a human hand wirelessly. The
+## Introduction 🤖
+This project is all about redefining the interaction between human gestures and the digital world. 🤝 Our goal is to create a **wireless-dexterous-anthropomorphic-gesture-controlled-robotic-arm** that mimics human hand gestures and performs various tasks in real-time. 🤖
 
-Arduino microcontroller module allows input and output mechanisms to interact with the system and the external environment. 
-The hardware responds successfully to the interaction of both the transmitter system and the receiver system. This project finally can control the movement by using the glove to
-integrate with hand and teleoperate by RF wireless module using simple human hand gestures. 
-This study has shown that nearly 96% of the transmitted signal is configured, and it redefines the interaction between simple human gestures and the digital world.
-APPENDIX: https://xcelerator.ninja/trending/BITESProject
-@Minas_Liarokapis #New_Dexterity #Humanoid_Robotics #Ss21
+## How it works 🤔
+1. The Tx and Rx circuit attempt to connect via the **NRF24L01** transceiver module.
+2. After a successful connection, the user can transmit hand gestures using a glove.
+3. The transmitted gestures control the movement of the robotic arm.
+4. The hardware interacts with the system and external environment using an **Arduino Nano** microcontroller.
+
+## Requirements 💻
+- Arduino Nano
+- NRF24L01 Transceiver Module
+- 3D Printer
+- STL Files
+- Glove
+- Flex Sensors (*10)
+- MG996 Servo Motors
+
+## Let's get started 🚀
+
+>1. Clone the repository
+```
+git clone https://github.com/[username]/[repository].git
+```
+>2. Assemble the hardware components as per the circuit diagram provided in the repository.
+>3. Upload the code to the Arduino Nano Microcontroller.
+>4. Put on the glove and control the movement of the robotic arm using hand gestures.
+
+## Design Credits 🎨
+_**Inmoov**_
+
+## Conclusion 🤩
+This project shows that nearly **"96%"** of the transmitted signals are successfully configured and demonstrates the interaction between simple human gestures and the digital world. 🤝 This study opens up avenues for further research in the area of gesture control and human-robot interaction. 🤖 Say goodbye to boring button controls and hello to a fun, interactive, and intuitive way to control robots! 🚀
