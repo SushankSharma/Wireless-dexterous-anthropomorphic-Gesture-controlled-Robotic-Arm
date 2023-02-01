@@ -1,5 +1,12 @@
 # 🤖 The Future of Robotic Arms is Here!
 
+## 🎥 Check it out in Action!
+Want to see the Wireless-dexterous-anthropomorphic-Gesture-controlled-Robotic-Arm in action? 🤖 We've got you covered! 🎉
+Check out our [**_Wireless Dexterous Anthropomorphic, Gesture Controlled Robotic Arm_**](https://www.youtube.com/watch?v=tEdk1Uv_6VI), and see the magic unfold! 🔮
+Get ready to be wowed by the power of human gestures controlling a robotic arm! 💪
+
+🚨 Warning: Watching this video may result in a sudden urge to build your own robotic arm! 🚨
+
 ## Introduction 🤖
 This project is all about redefining the interaction between human gestures and the digital world. 🤝 Our goal is to create a **wireless-dexterous-anthropomorphic-gesture-controlled-robotic-arm** that mimics human hand gestures and performs various tasks in real-time. 🤖
 
