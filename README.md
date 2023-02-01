@@ -2,7 +2,7 @@
 
 ## 🎥 Check it out in Action!
 Want to see the Wireless-dexterous-anthropomorphic-Gesture-controlled-Robotic-Arm in action? 🤖 We've got you covered! 🎉
-Check out our [**_Wireless Dexterous Anthropomorphic, Gesture Controlled Robotic Arm_**](https://www.youtube.com/watch?v=tEdk1Uv_6VI), and see the magic unfold! 🔮
+Check out our [`Wireless Dexterous Anthropomorphic, Gesture Controlled Robotic Arm`](https://www.youtube.com/watch?v=tEdk1Uv_6VI), and see the magic unfold! 🔮
 Get ready to be wowed by the power of human gestures controlling a robotic arm! 💪
 
 🚨 Warning: Watching this video may result in a sudden urge to build your own robotic arm! 🚨
@@ -36,7 +36,7 @@ git clone https://github.com/[username]/[repository].git
 >4. Put on the glove and control the movement of the robotic arm using hand gestures.
 
 ## Design Credits 🎨
-[**_Inmoov_**](https://inmoov.fr/finger-starter)
+[`Inmoov`](https://inmoov.fr/finger-starter)
 
 ## Conclusion 🤩
 This project shows that nearly **"96%"** of the transmitted signals are successfully configured and demonstrates the interaction between simple human gestures and the digital world. 🤝 This study opens up avenues for further research in the area of gesture control and human-robot interaction. 🤖 Say goodbye to boring button controls and hello to a fun, interactive, and intuitive way to control robots! 🚀
