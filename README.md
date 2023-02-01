@@ -36,7 +36,7 @@ git clone https://github.com/[username]/[repository].git
 >4. Put on the glove and control the movement of the robotic arm using hand gestures.
 
 ## Design Credits 🎨
-_**Inmoov**_
+[**_Inmoov_**](https://inmoov.fr/finger-starter)
 
 ## Conclusion 🤩
 This project shows that nearly **"96%"** of the transmitted signals are successfully configured and demonstrates the interaction between simple human gestures and the digital world. 🤝 This study opens up avenues for further research in the area of gesture control and human-robot interaction. 🤖 Say goodbye to boring button controls and hello to a fun, interactive, and intuitive way to control robots! 🚀
